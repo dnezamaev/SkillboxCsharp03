@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Задание 5. Игра «Угадай число»
+
+using System;
 
 namespace Task5
 {
